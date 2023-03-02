@@ -1,6 +1,6 @@
-### Hi, I'm Matthew
+## Hi, I'm Matthew
 
-# Contact Me
+### Contact Me
 <a href="https://mattwheeler-dev.com" target="_blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
